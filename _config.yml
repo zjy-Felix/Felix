@@ -247,6 +247,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _courses
+    - scope:
+      path: ""
+      type: courses
+    values:
+      layout: single
+      author_profile: true
   # _teaching
   - scope:
       path: ""
