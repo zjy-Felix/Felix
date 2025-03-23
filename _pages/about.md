@@ -11,5 +11,5 @@ I am a Junior Year Undergraduate student from HKU(https://www.hku.hk/). My resea
 
 I am very fortunate to be supervised by Prof. Kuo(https://sites.google.com/site/yonghongkuo/) and Prof. Wang(http://zhengliwang.net/) in HKU.
 
-You can find my CV(../assets/) here.
+You can find my CV(../assets/Zhang_Jingyan_CV.pdf) here.
 [Email]: (u3597410@connect.hku.hk) or (felixzjy@hku.hk)
