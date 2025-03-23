@@ -6,3 +6,5 @@ redirect_from:
   - /course/
   - /course.html
 ---
+
+Anything here?
