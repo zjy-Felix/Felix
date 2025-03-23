@@ -16,3 +16,5 @@ You can find my [CV](/assets/Zhang_Jingyan_CV.pdf) here. (Not yet cuz i don't kn
 Email: [u3597410@connect.hku.hk](mailto:u3597410@connect.hku.hk) or [felixzjy@hku.hk](mailto:felixzjy@hku.hk)
 
 The Personal Page is still under construction.
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=PJGHYl0CjG8zHjiAFTQLa532eEU8r_LnrpEwdBUvHA8&cl=ffffff&w=a"></script>
