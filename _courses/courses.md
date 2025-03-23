@@ -1,9 +1,13 @@
 ---
-title: "Courses"
+layout: archive
+title: "courses"
 permalink: /courses/
-layout: collection
-collection: courses
+author_profile: true
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
 
 Here is a list of courses I have taken during my undergraduate studies at HKU.
 
