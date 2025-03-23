@@ -58,6 +58,7 @@ Here is a list of courses I have taken during my undergraduate studies at HKU.
 - MATH 7502 Topics in applied discrete mathematics
 
 Winter/Summer school  
+
 Fudan University:  
 - CCCH 9007 Chinese history  
 
