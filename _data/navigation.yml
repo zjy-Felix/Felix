@@ -14,7 +14,7 @@ main:
   #- title: "Talks"
   #  url: /talks/    
   -title: "Courses"
-    url:/courses/
+    url: /courses/
   
   - title: "Teaching"
     url: /teaching/    
