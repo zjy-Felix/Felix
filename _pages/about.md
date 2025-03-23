@@ -11,7 +11,7 @@ I am a Junior Year Undergraduate student from [University of Hong Kong](https://
 
 I am very fortunate to be supervised by Prof. Kuo (incoming summer research) and Prof. Wang (full year research).
 
-You can find my [CV](../assets/Zhang_Jingyan_CV.pdf) here. (Not yet cuz i don't know how to create a hyperlink in github right now.)
+You can find my [CV](https://felixjingyanzhang.github.io/Felix/assets/Zhang_Jingyan_CV.pdf) here. (Not yet cuz i don't know how to create a hyperlink in github right now.)
 
 Email: [u3597410@connect.hku.hk](mailto:u3597410@connect.hku.hk) or [felixzjy@hku.hk](mailto:felixzjy@hku.hk)
 
