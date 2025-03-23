@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Junior Year Undergraduate student from [University of Hong Kong](https://www.hku.hk/), majoring in Quantitative Finance and double majoring in Mathematics. My research interest lies in operations research, especially in stochastic control, bandit, data-driven decision making, and dynamic programming.
 
-I am very fortunate to be supervised by [Prof. Kuo](https://sites.google.com/site/yonghongkuo/) and [Prof. Wang](http://zhengliwang.net/) in HKU.
+I am very fortunate to be supervised by Prof. Kuo (incoming summer research) and Prof. Wang (full year research).
 
 You can find my [CV](/assets/Zhang_Jingyan_CV.pdf) here. (Not yet cuz i don't know how to create a hyperlink in github right now.)
 
