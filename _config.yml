@@ -255,7 +255,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: tru
+      comments: true
   # _teaching
   - scope:
       path: ""
