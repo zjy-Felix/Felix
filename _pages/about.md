@@ -17,5 +17,5 @@ Email: [u3597410@connect.hku.hk](mailto:u3597410@connect.hku.hk) or [felixzjy@hk
 
 The Personal Page is still under construction. I will upload more information after this summer.
 Last modified: March 24th, 2025.
-#[CV](https://felixjingyanzhang.github.io/Felix/assets/Zhang_Jingyan_CV1.pdf)
+
 <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=PJGHYl0CjG8zHjiAFTQLa532eEU8r_LnrpEwdBUvHA8&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
