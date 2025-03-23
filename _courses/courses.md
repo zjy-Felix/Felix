@@ -41,12 +41,26 @@ Here is a list of courses I have taken during my undergraduate studies at HKU.
 - MATH 3601 Numerical analysis  
 - STAT 2601 Probability and statistics I  
 
-2024-24 Fall  
+2024-25 Fall  
+-ECON 2280 Introductory econometrics
+-FINA 3351 Spreadsheet financial modeling
+-MATH 3401 Analysis I
+-MATH 3600 Discrete mathematics
+-MATH 3904 Introduction to optimization
+-STAT 2602 Probability and statistics II
+
+2024-25 Spring
+-FINA 3350 Mathematical finance
+-MATH 3405 Differential equations
+-MATH 3603 Probability theory
+-MATH 3901 Operations research I
+-MATH 4602 Scientific computing
+-MATH 7502 Topics in applied discrete mathematics
 
 Winter/Summer school  
 Fudan University:  
 - CCCH 9007 Chinese history  
 
 Peking University:  
-- CCST 9050  
-- CCGL 9040
+- CCST 9050 Robot: Flesh, Machines, Intelligence
+- CCGL 9040 Energy Futures, Globalization and Sustainability
