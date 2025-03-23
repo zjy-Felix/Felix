@@ -13,7 +13,7 @@ title                    : "Zhang Jingyan"
 title_separator          : "-"
 name                     : &name "Zhang Jingyan"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://FelixJingyanZhang.github.io"
+url                      : https://felixjingyanzhang.github.io/Felix/ # the base hostname & protocol for your site e.g. "https://felixjingyanzhang.github.io/Felix/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "zjy.png"
   name             : "Zhang Jingyan"
   pronouns         : # example: "he/him"  
   bio              : "Strive for the best."
