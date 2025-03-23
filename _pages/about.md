@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,4 +12,5 @@ I am a Junior Year Undergraduate student from HKU(https://www.hku.hk/). My resea
 I am very fortunate to be supervised by Prof. Kuo(https://sites.google.com/site/yonghongkuo/) and Prof. Wang(http://zhengliwang.net/) in HKU.
 
 You can find my CV(../assets/Zhang_Jingyan_CV.pdf) here.
-[Email]: (u3597410@connect.hku.hk) or (felixzjy@hku.hk)
+
+Email: [u3597410@connect.hku.hk](mailto:u3597410@connect.hku.hk) or [felixzjy@hku.hk](mailto:felixzjy@hku.hk)
