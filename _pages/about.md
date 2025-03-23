@@ -17,4 +17,4 @@ Email: [u3597410@connect.hku.hk](mailto:u3597410@connect.hku.hk) or [felixzjy@hk
 
 The Personal Page is still under construction.
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=390&t=t&d=PJGHYl0CjG8zHjiAFTQLa532eEU8r_LnrpEwdBUvHA8'></script>
+<<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=PJGHYl0CjG8zHjiAFTQLa532eEU8r_LnrpEwdBUvHA8&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
