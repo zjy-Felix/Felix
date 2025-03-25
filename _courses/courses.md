@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "courses"
+title: "Courses"
 permalink: /courses/
 author_profile: true
 ---
@@ -55,8 +55,21 @@ Here is a list of courses I have taken during my undergraduate studies at HKU.
 - MATH 3603 Probability theory
 - MATH 3901 Operations research I
 - MATH 4602 Scientific computing
-- MATH 7502 Topics in applied discrete mathematics
+- MATH 7502 [Grad]Topics in applied discrete mathematics
 
+2025-26 Fall [Exchange at UNC] (Predicted)
+- MATH 523 Function of Complex Variable and application [Math3403] (considering)
+- MATH 577 Linear Algebra [Math2102]
+- MATH 751 [Grad] PDE [Math4406]
+- MATH 753 [Grad] Measure and Integration [Math7505]
+- STOR 743 [Grad] Reinforcement Learning and Markov Decision Process [Math4902?]
+
+2025-26 Spring (Predicted)
+- MATH 3999 Capstone
+- MATH 7503 [Grad] Topics in advanced optimization
+- CAES 9920 Academic Communication for Business and Economics
+- FINA 4341 Quantitative Risk Management
+- MATH 3906/3911/4402 (considering)
 Winter/Summer school  
 
 Fudan University:  
