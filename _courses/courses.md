@@ -70,6 +70,7 @@ Here is a list of courses I have taken during my undergraduate studies at HKU.
 - CAES 9920 Academic Communication for Business and Economics
 - FINA 4341 Quantitative Risk Management
 - MATH 3906/3911/4402 (considering)
+
 Winter/Summer school  
 
 Fudan University:  
