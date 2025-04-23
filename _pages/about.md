@@ -12,7 +12,7 @@ redirect_from:
 
 I am very fortunate to be supervised by Prof. Kuo Yong-Hong and Prof. Candace A. Yano (summer research) and Prof. Wang Zhengli.
 
-You can find my CV here. (Not yet cuz i don't know how to create a hyperlink in github right now.)
+You can find my [CV]() here.
 
 **Email:** [u3597410@connect.hku.hk](mailto:u3597410@connect.hku.hk) or [felixzjy@hku.hk](mailto:felixzjy@hku.hk)
 
