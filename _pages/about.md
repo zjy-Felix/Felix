@@ -12,7 +12,7 @@ redirect_from:
 
 I am very fortunate to be supervised by Prof. Kuo Yong-Hong and Prof. Candace A. Yano (summer research) and Prof. Wang Zhengli.
 
-You can find my [CV](https://github.com/FelixJingyanZhang/Felix/blob/master/assets/Zhang_Jingyan_CV_250423.pdf) here.
+You can find my [CV](Felix/assets/Zhang_Jingyan_CV_250423.pdf) here.
 
 **Email:** [u3597410@connect.hku.hk](mailto:u3597410@connect.hku.hk) or [felixzjy@hku.hk](mailto:felixzjy@hku.hk)
 
