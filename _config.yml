@@ -13,9 +13,9 @@ title                    : "Zhang Jingyan"
 title_separator          : "-"
 name                     : &name "Zhang Jingyan"
 description              : &description "personal description"
-url                      : https://felixjingyanzhang.github.io/Felix # the base hostname & protocol for your site e.g. "https://felixjingyanzhang.github.io/Felix/"
+url                      : "https://felixjingyanzhang.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               :"felixjingyanzhang/felixjingyanzhang.github.io"  # 修正为你的仓库
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
