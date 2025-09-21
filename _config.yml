@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Zhang Jingyan"
 description              : &description "personal description"
 url                      : "https://felixjingyanzhang.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/Felix" # the subpath of your site, e.g. "/blog"
 repository               : "felixjingyanzhang/felixjingyanzhang.github.io"  # 修正为你的仓库  
 
 # Site Author - The following control what appear as part of the author content on the side bar.
