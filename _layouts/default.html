@@ -9,10 +9,27 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+
+    <!-- 全站图片尺寸覆盖：左上角“我的照片”（作者头像/全局头像） -->
+    <style>
+      /* 你的“左上角我的照片”大概率使用这个选择器 */
+      .author__avatar img {
+        width: 140px;   /* 改这里：想多大就填多少，比如 120/140/160 */
+        height: auto;
+        max-width: none;
+      }
+
+      /* 若那张图是放在站点标题旁边的 <img>，一起兜底 */
+      .site-title img,
+      .site-logo img {
+        height: 56px;   /* 或者用 width: 120px; */
+        width: auto;
+        vertical-align: middle;
+      }
+    </style>
   </head>
 
   <body>
-
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
@@ -26,6 +43,5 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-
   </body>
 </html>
