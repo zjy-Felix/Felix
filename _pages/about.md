@@ -11,9 +11,9 @@ redirect_from:
 2022–2026 BSc Quantitative Finance and Mathematics, Faculty of Business and Economics
 
 **Research Interest**
-- Optimal Control
-- Sequential Decision Making
-- Transportation
+-Optimal Control
+-Sequential Decision Making
+-Transportation
 
 **Working Paper**  
 I am very fortunate to be supervised by Prof. Kuo Yong-Hong and Prof. Candace A. Yano (summer research) and Prof. Wang Zhengli.
