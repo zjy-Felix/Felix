@@ -66,10 +66,10 @@ Here is a list of courses I have taken during my undergraduate studies at HKU.
 2025-26 Spring (Predicted)
 - CAES 9920 Academic Communication for Business and Economics
 - FINA 4341 [Capstone] Quantitative Risk Management
-- MATH 3911 Game Theory
 - MATH 3999 [Capstone] Thesis on Discrete Maths or Financial Maths
 - MATH 7503 [Grad] Topics in advanced optimization
-
+- STAT 7610 [Grad] Advanced probability
+  
 Winter/Summer school  
 
 Fudan University:  
