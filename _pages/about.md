@@ -15,7 +15,9 @@ redirect_from:
 - Sequential Decision Making
 - Transportation
 
-**Working Paper**  
+**Working in Progress**  
+Weekly EV Charging model, with Prof Yano, Prof Kuo, Ms. Han.
+
 I am very fortunate to be supervised by Prof. Kuo Yong-Hong and Prof. Candace A. Yano (summer research) and Prof. Wang Zhengli.
 
 
