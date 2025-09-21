@@ -16,7 +16,7 @@ redirect_from:
 - Transportation
 
 **Working in Progress**  
-Weekly EV Charging model, with Prof Yano, Prof Kuo, Ms. Han.
+Weekly EV Charging model, with Prof Yano, Prof Kuo, and Ms. Han.
 
 I am very fortunate to be supervised by Prof. Kuo Yong-Hong and Prof. Candace A. Yano (summer research) and Prof. Wang Zhengli.
 
