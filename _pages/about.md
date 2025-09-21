@@ -7,15 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-**Education**
-2022-2026 BSc Quantitative Finance and Mathematics, Faculty of Business and Economics
+**Education**  
+2022–2026 BSc Quantitative Finance and Mathematics, Faculty of Business and Economics
 
+**Research Interest**
+- Optimal Control
+- Sequential Decision Making
+- Transportation
+
+**Working Paper**  
 I am very fortunate to be supervised by Prof. Kuo Yong-Hong and Prof. Candace A. Yano (summer research) and Prof. Wang Zhengli.
-
-You can find my [CV](assets/Zhang_Jingyan_Resume_250623.pdf) here.
-
-**Email:** [u3597410@connect.hku.hk](mailto:u3597410@connect.hku.hk) or [felixzjy@hku.hk](mailto:felixzjy@hku.hk)
-
 
 
 <footer>
