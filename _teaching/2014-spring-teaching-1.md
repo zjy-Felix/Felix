@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience"
+title: "COMP 1117"
 collection: teaching
 type: "Undergraduate course"
 #permalink: /teaching/2025-spring-teaching-1
@@ -8,7 +8,7 @@ date: 2025-01-20
 location: "Hong Kong"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Comp 1117:Computer Programming 2025 Fall
 
 Comp1117 Computer Programming
 ======
