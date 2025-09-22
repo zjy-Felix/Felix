@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 **Education**  
-BSc. Quantitative Finance and Mathematics, [University of Hong Kong]([https://www.hku.hk](https://www.hku.hk/)), 2022--2026
-
+- BSc. Quantitative Finance and Mathematics, [University of Hong Kong]([https://www.hku.hk](https://www.hku.hk/)), 2022--2026.
+- Student, The Affliated High School of South China Normal University, 2019--2022.
 **Research Interest**
 - Optimal Control
 - Sequential Decision Making
