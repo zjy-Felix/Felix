@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 **Education**  
-2022–2026 BSc Quantitative Finance and Mathematics, Faculty of Business and Economics
+BSc. Quantitative Finance and Mathematics, [University of Hong Kong]([https://www.hku.hk](https://www.hku.hk/)), 2022--2026
 
 **Research Interest**
 - Optimal Control
@@ -18,7 +18,7 @@ redirect_from:
 **Working in Progress**  
 Weekly EV Charging model, with C. Yano, Y. Kuo, and J. Han.
 
-I am very fortunate to be supervised by Prof. Kuo Yong-Hong and Prof. Candace A. Yano (summer research) and Prof. Wang Zhengli.
+I am very fortunate to be supervised by Prof. Yong-Hong Kuo, Prof. Candace A. Yano from 2025 summer, and Prof. Zhengli Wang from 2024 summer.
 
 
 <footer>
