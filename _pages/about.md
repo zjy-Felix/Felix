@@ -12,12 +12,13 @@ redirect_from:
 - Student, The Affliated High School of South China Normal University, 2019--2022.
 
 **Research Interest**
-- Optimal Control
+- Stochastic Control
 - Sequential Decision Making
 - Transportation
 
 **Working in Progress**  
-Weekly EV Charging model, with C. Yano, Y. Kuo, and J. Han.
+- Weekly EV Charging model, with C. Yano, Y. Kuo, and J. Han.
+- Time Varying SIS Model, with Z. Wang.
 
 I am very fortunate to be supervised by Prof. Yong-Hong Kuo, Prof. Candace A. Yano from 2025 summer, and Prof. Zhengli Wang from 2024 summer.
 
