@@ -20,8 +20,7 @@ redirect_from:
 - Weekly EV Charging model, with C. Yano, Y. Kuo, and J. Han.
 - Time Varying SIS Model, with Z. Wang.
 
-I am very fortunate to be supervised by Prof. Yong-Hong Kuo, Prof. Candace A. Yano from 2025 summer, and Prof. Zhengli Wang from 2024 summer.
-
+I am very fortunate to be supervised by Prof. Yong-Hong Kuo, Prof. Candace A. Yano from 2025 summer, and Prof. Zhengli Wang from 2024 summer. Here is my [CV](assets/Zhang_Jingyan_Resume_Application.pdf). I am always open to new research collaborations.
 
 <footer>
     <p>© 2025 Jingyan Zhang</p>
