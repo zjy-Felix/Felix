@@ -20,7 +20,7 @@ redirect_from:
 - Weekly EV Charging model, with C. Yano, Y. Kuo, and J. Han.
 - Time Varying SIS Model, with Z. Wang.
 
-Here is my [Resume]({/Felix}/assets/Zhang_Jingyan_Resume_Application.pdf).  I am always open to new research collaborations. You can reach me at [u3597410@connect.hku.hk](mailto:u3597410@connect.hku.hk)
+Here is my [Resume](/assets/Zhang_Jingyan_Resume_Application.pdf).  I am always open to new research collaborations. You can reach me at [u3597410@connect.hku.hk](mailto:u3597410@connect.hku.hk)
 
 
 <footer>
