@@ -22,8 +22,10 @@ I am eager to connect real-world phenomena with mathematical models, aiming to d
 - Weekly EV Charging model, with C. Yano, Y. Kuo, and J. Han.
 - Time Varying SIS Model, with Z. Wang.
 
-Here is my [Resume](/Felix/assets/Zhang_Jingyan_Resume_Application.pdf).  I am always open to new research collaborations. You can reach me at [u3597410@connect.hku.hk](mailto:u3597410@connect.hku.hk)
 
+**Currently applying for PhD programs for Fall 2026.**  
+Here is my [Resume](/Felix/assets/Zhang_Jingyan_Resume_Application.pdf).  
+I am always open to any collaboration opportunity — feel free to contact me at [u3597410@connect.hku.hk](mailto:u3597410@connect.hku.hk).
 
 <footer>
     <p>© 2025 Jingyan Zhang</p>
