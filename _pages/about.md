@@ -11,7 +11,7 @@ I am eager to connect real-world phenomena with mathematical models, aiming to d
 
 **Education**  
 - BSc. Quantitative Finance and Mathematics, [University of Hong Kong](https://www.hku.hk/), 2022--2026.
-- Student, The Affliated High School of South China Normal University, 2019--2022.
+- Fall Exchange, UNC, 2025.
 
 **Research Interest**
 - Stochastic Control
