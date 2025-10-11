@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am eager to connect real-world phenomena with mathematical models, aiming to derive optimal strategies and policies for better decision-making.
+
 
 **Education**  
 - BSc. Quantitative Finance and Mathematics, [University of Hong Kong](https://www.hku.hk/), 2022--2026.
