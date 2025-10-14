@@ -61,7 +61,7 @@ Here is a list of courses I have taken during my undergraduate studies at HKU.
 - MATH 577 Linear Algebra [Math2102]
 - MATH 751 [Grad] PDE [Math4406]
 - MATH 753 [Grad] Measure and Integration [Math7505]
-- STOR 743 [Grad] Reinforcement Learning and Markov Decision Process [Math4902?]
+- STOR 743 [Grad] Reinforcement Learning and Markov Decision Process 
 
 2025-26 Spring (Predicted)
 - CAES 9920 Academic Communication for Business and Economics
