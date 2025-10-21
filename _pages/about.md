@@ -11,7 +11,7 @@ I am eager to connect real-world phenomena with mathematical models, aiming to d
 
 **Education**  
 - BSc. Quantitative Finance and Mathematics, [University of Hong Kong](https://www.hku.hk/), 2022--2026.
-- BEF. Economics & Finance , University of Hong Kong, 2023--2024.
+- BEF. Economics & Finance, University of Hong Kong, 2023--2024.
 - BA. Architectural Studies, University of Hong Kong, 2022--2023.
 - Fall Exchange, UNC, 2025.
 
