@@ -29,6 +29,9 @@ I am eager to connect real-world phenomena with mathematical models, aiming to d
 Here is my [Resume](/Felix/assets/Zhang_Jingyan_Resume_Application.pdf).  
 I am always open to any collaboration opportunity — feel free to contact me at [u3597410@connect.hku.hk](mailto:u3597410@connect.hku.hk).
 
+**Fun Fact**
+Always bad at English Test.
+
 <footer>
     <p>© 2025 Jingyan Zhang</p>
     <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=PJGHYl0CjG8zHjiAFTQLa532eEU8r_LnrpEwdBUvHA8&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
