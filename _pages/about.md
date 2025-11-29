@@ -26,7 +26,7 @@ I am eager to connect real-world phenomena with mathematical models, aiming to d
 
 
 **Currently applying for PhD programs for Fall 2026.**  
-Here is my [Resume](/Felix/assets/Zhang_Jingyan_Resume_Application.pdf).  
+Here is my [CV](/Felix/assets/Zhang_Jingyan_CV_Application.pdf).  
 I am always open to any collaboration opportunity — feel free to contact me at [u3597410@connect.hku.hk](mailto:u3597410@connect.hku.hk).
 
 **Fun Fact**
