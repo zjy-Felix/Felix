@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am eager to connect real-world phenomena with mathematical models, aiming to derive optimal strategies and policies for better decision-making.
-
+I am eager to connect real-world phenomena with mathematical models, aiming to derive optimal strategies and policies for better decision-making. During undergrad, I was fortunate to conduct research under the supervision of Zhengli Wang, Yong-Hong Kuo, and Candace Arai Yano.
 
 **Education**  
 - BSc. Quantitative Finance and Mathematics, [University of Hong Kong](https://www.hku.hk/), 2024--2026.
