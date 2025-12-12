@@ -58,9 +58,9 @@ Here is a list of courses I have taken during my undergraduate studies at HKU.
 - MATH 7502 [Grad]Topics in applied discrete mathematics
 
 2025-26 Fall [Exchange at UNC] (Predicted)
-- MATH 577 Linear Algebra [Math2102]
-- MATH 751 [Grad] PDE [Math4406]
-- MATH 753 [Grad] Measure and Integration [Math7505]
+- MATH 577 Linear Algebra 
+- MATH 751 [Grad] PDE 
+- MATH 753 [Grad] Measure and Integration
 - STOR 743 [Grad] Reinforcement Learning and Markov Decision Process 
 
 2025-26 Spring (Predicted)
